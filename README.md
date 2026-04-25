@@ -7,3 +7,8 @@ The final goal of this assignment is achieve the best performance in this task b
 
 At the end write a report describing your final configurations (one for encoder-decoder and one for decoder-only), the different options that you have explored and why, and a detailed analysis of the impact they have in the final results.  
 
+
+
+## NOTE
+
+NotebookVisualizationRun was for the visualization only, TrainingAndAblationNotebook were for the actual training and Ablation of the models. I hit the Kaggle limit multiple times, this is why there had to be two notebooks.
