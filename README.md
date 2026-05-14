@@ -1,4 +1,4 @@
-[![Review Assignment Due Date]
+
 # Fine-tuning LLMs for summarization
 
 In this assignment you will have to fine-tuned pre-trained Large Language Models for the task of **text summarization**. For this task we will use the [**CNN Dailymail dataset**](https://huggingface.co/datasets/abisee/cnn_dailymail). The CNN DailyMail Dataset is an English-language dataset containing just over 300k unique news articles as written by journalists at CNN and the Daily Mail. For each instance, there is a string for the article and a string for the highlights that form a summary of the article. The dataset has 287,113 samples for training, 13,368 for validation adn 11,490 for testing.
